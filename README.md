@@ -1,4 +1,4 @@
-# 🎓 Student Performance Prediction
+# Student Performance Prediction
 
 An end-to-end Machine Learning application that predicts a student's final academic performance based on demographic, socioeconomic, academic, and lifestyle-related attributes.
 
@@ -6,25 +6,25 @@ The project covers the complete Machine Learning workflow — from data preproce
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-🌐 **Live Application:**  
+**Live Application:**  
 https://student-performance-prediction-jejd.onrender.com
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📊 Exploratory Data Analysis
-- 🧹 Data preprocessing and feature preparation
-- 🔤 Categorical feature encoding using One-Hot Encoding
-- 🌲 Random Forest Regression
-- ⚙️ Hyperparameter tuning using GridSearchCV
-- 📈 Model evaluation using MAE, RMSE, and R²
-- 💾 Trained model saved using Joblib
-- 🌐 Flask-based web application
-- 🚀 Deployed on Render
-- 🎯 Real-time student performance prediction
+-  Exploratory Data Analysis
+-  Data preprocessing and feature preparation
+-  Categorical feature encoding using One-Hot Encoding
+-  Random Forest Regression
+-  Hyperparameter tuning using GridSearchCV
+-  Model evaluation using MAE, RMSE, and R²
+-  Trained model saved using Joblib
+-  Flask-based web application
+-  Deployed on Render
+-  Real-time student performance prediction
 
 ---
 
@@ -85,7 +85,7 @@ Student Performance Prediction
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 The final model uses a tuned **Random Forest Regressor** to predict the student's final grade (`G3`) on a scale of 0–20.
 
@@ -108,7 +108,7 @@ The final model uses a tuned **Random Forest Regressor** to predict the student'
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -128,7 +128,7 @@ The final model uses a tuned **Random Forest Regressor** to predict the student'
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 student-performance-prediction/
@@ -218,7 +218,7 @@ Open the URL in your browser and enter the student's information to generate a p
 
 ---
 
-## 🧪 Testing
+## Testing
 
 The project was tested at multiple stages of development.
 
@@ -256,7 +256,7 @@ Predicted Final Grade: 11.64 / 20
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 The Flask application is deployed using **Render**.
 
@@ -272,13 +272,13 @@ The application is deployed from the `main` branch of the GitHub repository.
 
 ### Live Application
 
-🌐 https://student-performance-prediction-jejd.onrender.com
+ https://student-performance-prediction-jejd.onrender.com
 
 > **Note:** The application is hosted on Render's free instance. The service may spin down after a period of inactivity, which can make the first request after inactivity take longer.
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 The project uses the **UCI Student Performance Dataset**, specifically the Mathematics dataset (`student-mat.csv`).
 
@@ -296,7 +296,7 @@ The first-period (`G1`) and second-period (`G2`) grades were excluded from the m
 
 ---
 
-## 🔍 Key Machine Learning Steps
+##  Key Machine Learning Steps
 
 ### Data Preprocessing
 
@@ -332,7 +332,7 @@ The final model uses a tuned Random Forest Regressor.
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - The model is trained on a relatively small dataset.
 - Predictions are estimates and should not be treated as official academic assessments.
@@ -342,7 +342,7 @@ The final model uses a tuned Random Forest Regressor.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add additional regression and ensemble models
 - Improve model performance through feature engineering
@@ -356,7 +356,7 @@ The final model uses a tuned Random Forest Regressor.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Anupriya Sakshi**
 
